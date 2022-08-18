@@ -12,42 +12,42 @@ see the [add-to-app documentation](https://flutter.dev/docs/development/add-to-a
 
 # Features
 
-Email & Password Authentication
+1. Email & Password Authentication
 
-Persisting Auth State
+2. Persisting Auth State
 
-Searching Products
+3. Searching Products
 
-Filtering Products (Based on Category)
+4. Filtering Products (Based on Category)
 
-Product Details
+5. Product Details
 
-Rating
+6. Rating
 
-Getting Deal of the Day
+7. Getting Deal of the Day
 
-Cart
+8. Cart
 
-Checking out with Google/Apple Pay
+9. Checking out with Google/Apple Pay
 
-Viewing My Orders
+9. Viewing My Orders
 
-Viewing Order Details & Status
+10. Viewing Order Details & Status
 
-Sign Out
+11. Sign Out
 
-Admin Panel
+12. Admin Panel
 
-Viewing All Products
+13. Viewing All Products
 
-Adding Products
+14. Adding Products
 
-Deleting Products
+15. Deleting Products
 
-Viewing Orders
+16. Viewing Orders
 
-Changing Order Status
+17. Changing Order Status
 
-Viewing Total Earnings
+18. Viewing Total Earnings
 
-Viewing Category Based Earnings (on Graph)
+19. Viewing Category Based Earnings (on Graph)

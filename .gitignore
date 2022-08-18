@@ -42,6 +42,8 @@ build/
 # .ios/
 # .flutter-plugins
 # .flutter-plugins-dependencies
+server/index.js
+
 
 # Symbolication related
 app.*.symbols
