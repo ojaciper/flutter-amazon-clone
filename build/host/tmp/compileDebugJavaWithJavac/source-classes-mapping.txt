@@ -1,0 +1,4 @@
+com/example/amazon_clone/host/BuildConfig.java
+ com.example.amazon_clone.host.BuildConfig
+com/example/amazon_clone/host/MainActivity.java
+ com.example.amazon_clone.host.MainActivity

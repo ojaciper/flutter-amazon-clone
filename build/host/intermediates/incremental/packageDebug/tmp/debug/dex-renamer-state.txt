@@ -1,0 +1,4 @@
+#Thu Aug 18 13:06:43 WAT 2022
+base.0=C\:\\Users\\OSAS\\Desktop\\flutter\\amazon_clone\\build\\host\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
