@@ -10,7 +10,7 @@ const userRouter = require('./routes/user');
 // INIT
 const PORT = 3000; 
 const app = express();
-const DB = "mongodb+srv://osas:12345@cluster0.dfoib.mongodb.net/?retryWrites=true&w=majority";
+const DB = "mongodb+srv://osas:<password>@cluster0.dfoib.mongodb.net/?retryWrites=true&w=majority";
 // CREATING  AN API
 // GET, PUT, POST, DELETE, UPDATE, -> GRUD  
 // http://<youripaddress>/hello-world
